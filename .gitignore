@@ -4,3 +4,8 @@ venv
 h5_all_files
 feature_path
 preprocessed_data
+seizure_files
+summary_files
+edf_files
+h5_seizures
+model_results
