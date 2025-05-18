@@ -1,3 +1,6 @@
 Dataset
 h5_files
 venv
+h5_all_files
+feature_path
+preprocessed_data
